@@ -2,8 +2,8 @@ import React from 'react'
 
 function Quoraheader() {
   return (
-    <div>
-        Hello from header
+    <div className='Quoraheader'>
+          Hello from header
     </div>
   )
 }
